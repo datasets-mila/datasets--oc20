@@ -1,0 +1,13 @@
+12a7087bfd189a06ccbec9bc7add2bcd  s2ef_train_all.tar
+863bc983245ffc0285305a1850e19cf7  s2ef_train_20M.tar
+953474cb93f0b08cdc523399f03f7c36  s2ef_train_2M.tar
+f8d0909c2623a393148435dede7d3a46  s2ef_train_200K.tar
+f57f7f5c1302637940f2cc858e789410  s2ef_val_id.tar
+431ab0d7557a4639605ba8b67793f053  s2ef_val_ood_ads.tar
+532d6cd1fe541a0ddb0aa0f99962b7db  s2ef_val_ood_cat.tar
+5731862978d80502bbf7017d68c2c729  s2ef_val_ood_both.tar
+aed414cdd240fbb5670b5de6887a138b  is2re_test_challenge_2021.tar.gz
+bcada432482f6e87b24e14b6b744992a  s2ef_test_lmdbs.tar.gz
+40431149b27b64ce1fb40cac4e2e064b  s2ef_rattled.tar
+9fed845aaab8fb4bf85e3a8db57796e0  s2ef_md.tar
+cfc04dd2f87b4102ab2f607240d25fb1  is2res_train_val_test_lmdbs.tar.gz
