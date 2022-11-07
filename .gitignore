@@ -2,3 +2,5 @@
 *.jugdata/
 /.tmp/
 /logs/
+*.lmdb-lock
+data_log.*.txt
